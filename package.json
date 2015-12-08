@@ -1,0 +1,20 @@
+{
+  "name": "floodfill",
+  "version": "0.1.0",
+  "description": "4 directions floodfill for 2d array",
+  "readme": "4 directions floodfill for 2d array",
+  "repository": "jeromedecoster/floodfill",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "tape test.js | tap-min"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "tap-min": "^1.0.0",
+    "tape": "^4.2.2"
+  }
+}
